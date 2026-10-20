@@ -1,0 +1,130 @@
+{
+  "coins": [
+    {
+      "item": {
+        "id": "solana",
+        "coin_id": 4128,
+        "name": "Solana",
+        "symbol": "SOL",
+        "market_cap_rank": 6,
+        "thumb": "https://coin-images.coingecko.com/coins/images/4128/thumb/solana.png",
+        "small": "https://coin-images.coingecko.com/coins/images/4128/small/solana.png",
+        "large": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png",
+        "slug": "solana",
+        "price_btc": 0.00175303053,
+        "score": 0,
+        "data": {
+          "price": 187.42,
+          "price_btc": "0.001753030530",
+          "price_change_percentage_24h": {
+            "usd": 4.2117,
+            "eur": 4.0117
+          },
+          "market_cap": "$101,823,411,220",
+          "market_cap_btc": "952403.9511",
+          "total_volume": "$6,120,334,001",
+          "total_volume_btc": "57246.4644",
+          "sparkline": "https://www.coingecko.com/coins/4128/sparkline.svg",
+          "content": null
+        }
+      }
+    },
+    {
+      "item": {
+        "id": "pepe",
+        "coin_id": 29850,
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "market_cap_rank": 31,
+        "thumb": "https://coin-images.coingecko.com/coins/images/29850/thumb/pepe.png",
+        "small": "https://coin-images.coingecko.com/coins/images/29850/small/pepe.png",
+        "large": "https://coin-images.coingecko.com/coins/images/29850/large/pepe.png",
+        "slug": "pepe",
+        "price_btc": 9.2e-11,
+        "score": 1,
+        "data": {
+          "price": 9.81e-06,
+          "price_btc": "0.000000000092",
+          "price_change_percentage_24h": {
+            "usd": -3.5502,
+            "eur": -3.7502
+          },
+          "market_cap": "$4,127,700,310",
+          "market_cap_btc": "38608.3911",
+          "total_volume": "$912,004,411",
+          "total_volume_btc": "8530.4214",
+          "sparkline": "https://www.coingecko.com/coins/29850/sparkline.svg",
+          "content": null
+        }
+      }
+    },
+    {
+      "item": {
+        "id": "sui",
+        "coin_id": 26375,
+        "name": "Sui",
+        "symbol": "SUI",
+        "market_cap_rank": 19,
+        "thumb": "https://coin-images.coingecko.com/coins/images/26375/thumb/sui.png",
+        "small": "https://coin-images.coingecko.com/coins/images/26375/small/sui.png",
+        "large": "https://coin-images.coingecko.com/coins/images/26375/large/sui.png",
+        "slug": "sui",
+        "price_btc": 2.9091215e-05,
+        "score": 2,
+        "data": {
+          "price": "$3.1102",
+          "price_btc": "0.000029091215",
+          "price_change_percentage_24h": {
+            "usd": 9.8723,
+            "eur": 9.6723
+          },
+          "market_cap": "$10,992,018,331",
+          "market_cap_btc": "102813.7003",
+          "total_volume": "$1,388,722,001",
+          "total_volume_btc": "12989.3932",
+          "sparkline": "https://www.coingecko.com/coins/26375/sparkline.svg",
+          "content": null
+        }
+      }
+    }
+  ],
+  "nfts": [
+    {
+      "id": "pudgy-penguins",
+      "name": "Pudgy Penguins",
+      "symbol": "PPG",
+      "thumb": "https://coin-images.coingecko.com/nft_contracts/images/38/standard/pudgy.jpg",
+      "nft_contract_id": 38,
+      "native_currency_symbol": "eth",
+      "floor_price_in_native_currency": 10.42,
+      "floor_price_24h_percentage_change": 2.18,
+      "data": {
+        "floor_price": "10.42 ETH",
+        "floor_price_in_usd_24h_percentage_change": "1.95",
+        "h24_volume": "210.5 ETH",
+        "h24_average_sale_price": "10.9 ETH",
+        "sparkline": "https://www.coingecko.com/nft/38/sparkline.svg",
+        "content": null
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": 251,
+      "name": "Solana Meme",
+      "market_cap_1h_change": 0.92,
+      "slug": "solana-meme-coins",
+      "coins_count": "812",
+      "data": {
+        "market_cap": 11203004112.0,
+        "market_cap_btc": 104786.1,
+        "total_volume": 2001233118.0,
+        "total_volume_btc": 18718.3,
+        "market_cap_change_percentage_24h": {
+          "usd": 5.12
+        },
+        "sparkline": "https://www.coingecko.com/categories/25211443/sparkline.svg"
+      }
+    }
+  ]
+}
